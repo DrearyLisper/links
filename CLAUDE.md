@@ -15,6 +15,8 @@ A personal link vault stored in a single `README.md`, organized by topic section
 ## See also rules
 - Only specific articles, blog posts, essays, books, or videos
 - Never: aggregators, code repositories, wikis, newsletters, or general-purpose sites
+- Use WebSearch to find fresh (2025–present) See also links when possible — prioritize recency
+- WebSearch is for **See also only**, never for finding the main entry (user always provides that URL)
 
 ## README.md structure
 - One H2 per category, sorted alphabetically

@@ -1,7 +1,11 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:www.european-lisp-symposium.org)"
+      "WebFetch(domain:www.european-lisp-symposium.org)",
+      "WebSearch",
+      "WebFetch(domain:geohot.github.io)",
+      "WebFetch(domain:www.paulgraham.com)",
+      "WebFetch(domain:paulgraham.com)"
     ]
   }
 }
